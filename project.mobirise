@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "royal",
-    "currentPage": "index.html",
+    "currentPage": "about.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -156,7 +156,7 @@
           },
           "headerAlign": "left",
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"apartment.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-5"
         },
@@ -224,7 +224,7 @@
           },
           "headerAlign": "left",
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"hotel.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-6"
         },
@@ -292,7 +292,7 @@
           },
           "headerAlign": "left",
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"conferencing.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-7"
         },
@@ -392,7 +392,7 @@
             "logo": true,
             "showBrand": false,
             "showButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": false,
             "transparent": true,
             "color": "#28324e",
@@ -560,7 +560,7 @@
           "title": "ACCOMMODATION",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>Royal Delight Hotel and Apartments offers 24 modern rooms, which ideally meet the needs of our guests travelling for business or leisure. A quiet relaxed atmosphere and bright design welcomes you in every room. All our rooms are spacious and come with provisions for comfortable staying: free wireless Internet access, laundry service business center, free parking lots and room service. We are Located within Thika Section 9 about 43km from Nairobi.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">APARTMENTS</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"apartment.html\" data-toolbar=\"-mbrBtnMove\">APARTMENTS</a>",
           "_tags": [
             "Theme"
           ],
@@ -1040,7 +1040,7 @@
             "logo": true,
             "showBrand": false,
             "showButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": false,
             "transparent": true,
             "color": "#28324e",
@@ -1311,7 +1311,7 @@
             "logo": true,
             "showBrand": false,
             "showButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": false,
             "transparent": true,
             "color": "#28324e",
@@ -1640,7 +1640,7 @@
             "logo": true,
             "showBrand": false,
             "showButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": false,
             "transparent": true,
             "color": "#28324e",
@@ -1827,7 +1827,7 @@
             "logo": true,
             "showBrand": false,
             "showButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": false,
             "transparent": true,
             "color": "#28324e",
@@ -1931,7 +1931,7 @@
             "logo": true,
             "showBrand": false,
             "showButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": false,
             "transparent": true,
             "color": "#28324e",
