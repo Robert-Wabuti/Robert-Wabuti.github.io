@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "royal",
-    "currentPage": "index.html",
+    "currentPage": "apartment.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -513,8 +513,8 @@
             },
             "darkBackground": true,
             "overlay": true,
-            "overlayColor": "#28324e",
-            "overlayOpacity": 0.2
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.5"
           },
           "title": "Hotel",
           "text": "<p>On the ground floor you will find our restaurant, We offer classics of local and international cuisines. Our traditional master pieces of rich cultural African delicacies makes all the difference. Start the day with our energizing breakfast, meet colleagues for a satisfying business lunch and return for a delicious sumptous dinner. Our Terrace Restaurant is the ideal spot for a relaxed meal in a casual, friendly setting. Our team of professional F&amp;B waiting staff shall meet you with a smile and create a homely experience.</p>",
@@ -707,11 +707,11 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#f7da64"
+              "background": "#28324e"
             },
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
-              "color": "#2969b0"
+              "color": "#b8312f"
             },
             ".mbr-navbar__items a": {
               "font-size": "11px"
@@ -839,8 +839,8 @@
             },
             "darkBackground": true,
             "overlay": true,
-            "overlayColor": "#28324e",
-            "overlayOpacity": 0.2
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.5"
           },
           "title": "Apartments",
           "text": "<p>Our fully furnished apartments provide our esteemed guests with home like stay and experience especially while traveling with their children. The apartments have en-suite bedrooms, kitchen, dining room and lobby with personalized housekeeping services</p>",
