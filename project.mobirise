@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "royal",
-    "currentPage": "index.html",
+    "currentPage": "contact.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -55,7 +55,7 @@
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-top-150x90.png",
+              "src": "@PROJECT_PATH@/assets/images/ree-181x128.jpg",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -441,18 +441,21 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-crown-73x52.png",
+              "src": "@PROJECT_PATH@/assets/images/reetrans-265x187.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
-              "active": true,
               "link": "",
               "alt": "",
               "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "hot-cup",
+              "family": "MobiriseIcons",
               "link": "https://mobirise.com",
-              "size": 0
+              "size": 0,
+              "active": true
             }
           },
           "text1": "<strong>ADDRESS</strong><br>\n1234<br>Thika, Kenya",
@@ -684,17 +687,17 @@
             {
               "authorName": "ABANOUB S.",
               "authorBio": "User",
-              "text": "<p class=\"mbr-reviews__p\">“its really very amazing app that makes me finish html page in 3 minutes ( that's usually takes more than 1 hours at least from me if i did it from scratch). i hope to have very big library and plugins for this APP thanks again for your nice application”</p>"
+              "text": "<p class=\"mbr-reviews__p\">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
             },
             {
               "authorName": "SUFFIAN A.",
               "authorBio": "User",
-              "text": "<p class=\"mbr-reviews__p\">“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag & drop with no time design bootstrap builder in present web design world.”</p>"
+              "text": "<p class=\"mbr-reviews__p\">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
             },
             {
               "authorName": "JHOLLMAN C.",
               "authorBio": "User",
-              "text": "<p class=\"mbr-reviews__p\">“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</p>"
+              "text": "<p class=\"mbr-reviews__p\">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
             }
           ]
         },
@@ -715,13 +718,16 @@
             "image": {
               "src": "images/footer-logo.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
-              "width": 265,
-              "active": true
+              "width": 265
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "hot-cup",
+              "family": "mobirise-icons-bold",
               "link": "https://mobirise.com",
-              "size": 0
+              "size": 0,
+              "active": true
             }
           },
           "text1": "<strong>ADDRESS</strong><br>\n1234<br>Thika, Kenya",
@@ -763,7 +769,7 @@
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-top-150x90.png",
+              "src": "@PROJECT_PATH@/assets/images/ree-181x128.jpg",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -1029,10 +1035,9 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-crown-73x52.png",
+              "src": "images/footer-logo.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
-              "active": true,
               "link": "",
               "alt": "",
               "title": ""
@@ -1040,7 +1045,11 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
               "link": "https://mobirise.com",
-              "size": 0
+              "size": 0,
+              "linkInNewWindow": false,
+              "name": "hot-cup",
+              "family": "mobirise-icons-bold",
+              "active": true
             }
           },
           "text1": "<strong>ADDRESS</strong><br>\n1234<br>Thika, Kenya",
@@ -1082,7 +1091,7 @@
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-top-150x90.png",
+              "src": "@PROJECT_PATH@/assets/images/ree-181x128.jpg",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -1297,10 +1306,9 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-crown-73x52.png",
+              "src": "images/footer-logo.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
-              "active": true,
               "link": "",
               "alt": "",
               "title": ""
@@ -1308,7 +1316,11 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
               "link": "https://mobirise.com",
-              "size": 0
+              "size": 0,
+              "linkInNewWindow": false,
+              "name": "hot-cup",
+              "family": "mobirise-icons-bold",
+              "active": true
             }
           },
           "text1": "<strong>ADDRESS</strong><br>\n1234<br>Thika, Kenya",
@@ -1350,7 +1362,7 @@
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-top-150x90.png",
+              "src": "@PROJECT_PATH@/assets/images/ree-181x128.jpg",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -1570,19 +1582,19 @@
           "header": "WHAT OUR FANTASTIC USERS SAY",
           "items": [
             {
-              "authorName": "ABANOUB S.",
+              "authorName": "Mary",
               "authorBio": "User",
-              "text": "<p class=\"mbr-reviews__p\">“its really very amazing app that makes me finish html page in 3 minutes ( that's usually takes more than 1 hours at least from me if i did it from scratch). i hope to have very big library and plugins for this APP thanks again for your nice application”</p>"
+              "text": "<p class=\"mbr-reviews__p\">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>"
             },
             {
-              "authorName": "SUFFIAN A.",
+              "authorName": "John",
               "authorBio": "User",
-              "text": "<p class=\"mbr-reviews__p\">“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag & drop with no time design bootstrap builder in present web design world.”</p>"
+              "text": "<p class=\"mbr-reviews__p\">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>"
             },
             {
-              "authorName": "JHOLLMAN C.",
+              "authorName": "Jane",
               "authorBio": "User",
-              "text": "<p class=\"mbr-reviews__p\">“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</p>"
+              "text": "<p class=\"mbr-reviews__p\">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>"
             }
           ],
           "_tags": [
@@ -1623,10 +1635,9 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-crown-73x52.png",
+              "src": "images/footer-logo.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
-              "active": true,
               "link": "",
               "alt": "",
               "title": ""
@@ -1634,7 +1645,11 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
               "link": "https://mobirise.com",
-              "size": 0
+              "size": 0,
+              "linkInNewWindow": false,
+              "name": "hot-cup",
+              "family": "mobirise-icons-bold",
+              "active": true
             }
           },
           "text1": "<strong>ADDRESS</strong><br>\n1234<br>Thika, Kenya",
@@ -1676,7 +1691,7 @@
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-top-150x90.png",
+              "src": "@PROJECT_PATH@/assets/images/ree-181x128.jpg",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -1807,10 +1822,9 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-crown-73x52.png",
+              "src": "images/footer-logo.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
-              "active": true,
               "link": "",
               "alt": "",
               "title": ""
@@ -1818,7 +1832,11 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
               "link": "https://mobirise.com",
-              "size": 0
+              "size": 0,
+              "linkInNewWindow": false,
+              "name": "hot-cup",
+              "family": "mobirise-icons-bold",
+              "active": true
             }
           },
           "text1": "<strong>ADDRESS</strong><br>\n1234<br>Thika, Kenya",
@@ -1860,7 +1878,7 @@
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-top-150x90.png",
+              "src": "@PROJECT_PATH@/assets/images/ree-181x128.jpg",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -2066,10 +2084,9 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-crown-73x52.png",
+              "src": "images/footer-logo.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
-              "active": true,
               "link": "",
               "alt": "",
               "title": ""
@@ -2077,7 +2094,11 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
               "link": "https://mobirise.com",
-              "size": 0
+              "size": 0,
+              "linkInNewWindow": false,
+              "name": "hot-cup",
+              "family": "mobirise-icons-bold",
+              "active": true
             }
           },
           "text1": "<strong>ADDRESS</strong><br>\n1234<br>Thika, Kenya",
@@ -2119,7 +2140,7 @@
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-top-150x90.png",
+              "src": "@PROJECT_PATH@/assets/images/ree-181x128.jpg",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
