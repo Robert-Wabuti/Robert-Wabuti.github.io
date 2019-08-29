@@ -31,7 +31,7 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#28324e"
+              "background": "#475577"
             },
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
@@ -48,7 +48,7 @@
             "sticky": true,
             "collapsed": false,
             "transparent": true,
-            "color": "#28324e",
+            "color": "#475577",
             "hamburgerColor": "#b8312f"
           },
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"hotel.html\">HOTEL</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"apartment.html\">APARTMENTS</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"conferencing.html\">CONFERENCING</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"catering.html\">CATERING</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"about.html\">ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.html\">CONTACT</a></li>  ",
@@ -739,7 +739,7 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#28324e"
+              "background": "#475577"
             },
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
@@ -756,7 +756,7 @@
             "sticky": true,
             "collapsed": false,
             "transparent": true,
-            "color": "#28324e",
+            "color": "#475577",
             "hamburgerColor": "#b8312f"
           },
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"hotel.html\">HOTEL</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"apartment.html\">APARTMENTS</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"conferencing.html\">CONFERENCING</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"catering.html\">CATERING</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"about.html\">ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.html\">CONTACT</a></li>  ",
@@ -1058,7 +1058,7 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#28324e"
+              "background": "#475577"
             },
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
@@ -1075,7 +1075,7 @@
             "sticky": true,
             "collapsed": false,
             "transparent": true,
-            "color": "#28324e",
+            "color": "#475577",
             "hamburgerColor": "#b8312f"
           },
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"hotel.html\">HOTEL</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"apartment.html\">APARTMENTS</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"conferencing.html\">CONFERENCING</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"catering.html\">CATERING</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"about.html\">ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.html\">CONTACT</a></li>  ",
@@ -1326,7 +1326,7 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#28324e"
+              "background": "#475577"
             },
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
@@ -1343,7 +1343,7 @@
             "sticky": true,
             "collapsed": false,
             "transparent": true,
-            "color": "#28324e",
+            "color": "#475577",
             "hamburgerColor": "#b8312f"
           },
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"hotel.html\">HOTEL</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"apartment.html\">APARTMENTS</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"conferencing.html\">CONFERENCING</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"catering.html\">CATERING</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"about.html\">ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.html\">CONTACT</a></li>  ",
@@ -1652,7 +1652,7 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#28324e"
+              "background": "#475577"
             },
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
@@ -1669,7 +1669,7 @@
             "sticky": true,
             "collapsed": false,
             "transparent": true,
-            "color": "#28324e",
+            "color": "#475577",
             "hamburgerColor": "#b8312f"
           },
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"hotel.html\">HOTEL</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"apartment.html\">APARTMENTS</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"conferencing.html\">CONFERENCING</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"catering.html\">CATERING</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"about.html\">ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.html\">CONTACT</a></li>  ",
@@ -1836,7 +1836,7 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#28324e"
+              "background": "#475577"
             },
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
@@ -1853,7 +1853,7 @@
             "sticky": true,
             "collapsed": false,
             "transparent": true,
-            "color": "#28324e",
+            "color": "#475577",
             "hamburgerColor": "#b8312f"
           },
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"hotel.html\">HOTEL</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"apartment.html\">APARTMENTS</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"conferencing.html\">CONFERENCING</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"catering.html\">CATERING</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"about.html\">ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.html\">CONTACT</a></li>  ",
@@ -2095,7 +2095,7 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#28324e"
+              "background": "#475577"
             },
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
@@ -2112,7 +2112,7 @@
             "sticky": true,
             "collapsed": false,
             "transparent": true,
-            "color": "#28324e",
+            "color": "#475577",
             "hamburgerColor": "#b8312f"
           },
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"hotel.html\">HOTEL</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"apartment.html\">APARTMENTS</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"conferencing.html\">CONFERENCING</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"catering.html\">CATERING</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"about.html\">ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.html\">CONTACT</a></li>  ",
